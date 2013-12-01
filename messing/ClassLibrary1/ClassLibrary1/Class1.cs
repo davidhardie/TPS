@@ -9,12 +9,6 @@ namespace ClassLibrary1
     public class Class1
     {
         public int MyProperty { get; set; }
-        public bool MyProperty2 { get; set; }
-
-        public Class1()
-        {
-            MyProperty = 1;
-            MyProperty2 = true;
-        }
+        public int MyProperty2 { get; set; }
     }
 }
