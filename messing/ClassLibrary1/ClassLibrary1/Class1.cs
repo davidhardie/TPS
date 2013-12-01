@@ -9,7 +9,7 @@ namespace ClassLibrary1
     public class Class1
     {
         public int MyProperty { get; set; }
-        public bool MyProperty2 { get; set; }
+        public bool MyProperty2 { get; set; } // to make a change
 
         public Class1()
         {
